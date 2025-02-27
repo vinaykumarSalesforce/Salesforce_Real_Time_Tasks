@@ -1,2 +1,8 @@
-# Salesforce_Real_Time_Tasks
-This repository contains various Salesforce tasks, including Apex code, Lightning components, Flows, Triggers, and other automation implementations. The purpose of this repository is to track development progress, share solutions, and maintain version control for Salesforce-related projects.
+# 🚀 Salesforce Tasks  
+
+## 📌 Overview  
+This repository contains various Salesforce development tasks, including Apex classes, Lightning Web Components (LWC), Flows, and automations. Each task is designed to solve specific business requirements and enhance Salesforce functionality.  
+
+## 📂 Features Included  
+- **File Name : Bmi Calculator**🏋️‍♂️ **BMI Calculator** – Calculates BMI based on weight and height, providing health insights.  
+  
